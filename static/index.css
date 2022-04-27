@@ -8,9 +8,3 @@ body {
   font-family: 'arial';
   color: white;
 }
-
-center {
-  padding: 70px 0;
-  display: flex;
-  text-align:center;
-}
